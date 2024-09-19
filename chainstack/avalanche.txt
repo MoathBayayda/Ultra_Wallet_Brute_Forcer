@@ -1,0 +1,1 @@
+https://avalanche-mainnet.core.chainstack.com/ext/bc/C/rpc/0313abe1e84bf77ebc318317f348a8e6 2012 3000000

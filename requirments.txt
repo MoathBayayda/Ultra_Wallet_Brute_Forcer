@@ -1,0 +1,6 @@
+bip_utils
+mnemonic
+colorama
+requests
+auto-py-to-exe
+web3
